@@ -1,5 +1,5 @@
 # HORA CERTA
-<p>Hora certa é um exercício do curso de javascript do <a href="http://cursoemvideo.comm/" target="_blank" rel="noopener noreferrer">Curso em video.</a>
+<p>Hora certa é um exercício do curso de javascript do <a href="http://cursoemvideo.com/" target="_blank" rel="noopener noreferrer">Curso em video.</a>
   
 ## O que é?
 <p>O projeto trm como objetivo criar um relógiio que muda a cor de fundo e troca de imagens dentre os períodos do dia.</p>
