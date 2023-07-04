@@ -8,4 +8,4 @@
 <p>criei um script para contar os segundos e realizar a mudança de horário sem a necessidade atualizar a página.</p>
 
 ### DEMO
-<a href="http://mar1o1.github.io/hora-certa/" target="_blank" rel="noopener noreferrer">Veja aqui</a>
+<a href="https://fanciful-donut-e50321.netlify.app/" target="_blank" rel="noopener noreferrer">Veja aqui</a>
